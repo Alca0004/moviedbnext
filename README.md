@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Movie Database 🎥
+
+Movie database from the https://www.themoviedb.org/ api using Next.js 13 (react) , tailwind, typescript 
+
+
+## Tech Stack
+
+**Client:** NextJs, Typescript, TailwindCSS.
+
+
+
+## Demo
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/81910f50-85f2-45ee-a000-3444fbc41aea/deploy-status)](https://app.netlify.com/sites/zingy-fenglisu-d4a65f/deploys)
+
 
 ## Getting Started
 
@@ -26,9 +41,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
