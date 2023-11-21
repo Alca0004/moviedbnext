@@ -12,7 +12,7 @@ Movie database from the https://www.themoviedb.org/ api using Next.js 13 (react)
 
 ## Demo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/81910f50-85f2-45ee-a000-3444fbc41aea/deploy-status)](https://app.netlify.com/sites/zingy-fenglisu-d4a65f/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/81910f50-85f2-45ee-a000-3444fbc41aea/deploy-status)](https://zingy-fenglisu-d4a65f.netlify.app)
 
 
 ## Getting Started
